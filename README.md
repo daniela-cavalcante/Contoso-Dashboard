@@ -1,6 +1,8 @@
 # Contoso Sales Dashboard
 
-This repository showcases a Contoso Dashboard created by me for study purposes. The dashboard is designed to demonstrate my skills in dashboard design, DAX, and data insights. The dataset used is from the Contoso database, and the dashboard is divided into three main pages: Sales Performance, Customer Insights, and Operational Efficiency.
+This repository showcases a Contoso Dashboard created by me for study purposes. The dashboard is designed to demonstrate my skills in dashboard design, DAX, and data insights. The dataset used is from the Contoso database, and the dashboard is divided into three main pages: Sales Performance, Customer Insights, and Operational Efficiency. 
+
+[Click here to explore the dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjRiYTJlN2ItNjYyMS00Y2VjLWFlMzgtOTgwNzc4YjViNmQ2IiwidCI6ImMxYTNmZDRkLTA5MmQtNDRhMS04MWJlLTMyNTdjNzQyY2MxMCIsImMiOjh9)
 
 ## End-Users
 The primary end-users of this dashboard are:
@@ -68,3 +70,5 @@ The dashboard includes a navigation panel with icons to switch between pages and
 This Contoso Sales Dashboard is created for study purposes to showcase my abilities in dashboard design, DAX, and extracting valuable data insights. The goal was to present information as clearly as possible, providing a comprehensive view of sales performance, customer insights, and operational efficiency to enable informed decision-making and strategic planning.
 
 Feel free to explore the dashboard and reach out if you have any questions or feedback 🫶
+
+[Click here to explore the dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjRiYTJlN2ItNjYyMS00Y2VjLWFlMzgtOTgwNzc4YjViNmQ2IiwidCI6ImMxYTNmZDRkLTA5MmQtNDRhMS04MWJlLTMyNTdjNzQyY2MxMCIsImMiOjh9)
